@@ -14,7 +14,7 @@
 
 ## Contenuti del Corso
 
-[Wiki del Corso](https://github.com/marcosecchi/fda-2017-gamedev-intermediate/wiki)
+1. [Progetto 1](https://github.com/marcosecchi/fda-2017-gamedev-intermediate-proj01)
 
 ## Link Dedicati al Corso
 
