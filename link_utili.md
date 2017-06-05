@@ -1,15 +1,13 @@
 # Link Dedicati al Corso
 
-### Classroom
+## Classroom
 * [Slack](https://fda-2017-intermediate.slack.com): pagina Slack dedicata al corso
 * [Repl.it Classroom](https://repl.it/teacher/classrooms/21203): classe virtuale del corso
 
-### Online
-
-### Desktop
+## Desktop
 * [Unity3D](https://unity3d.com/get-unity/download/archive): archivio delle versioni di Unity3D
 
-### Git
+## Git
 * [Git](https://git-scm.com/): pagina ufficiale di Git
 * [GitHub](https://www.github.com/): servizio di hosting (repository) per progetti
 * [GitHub Desktop](https://desktop.github.com/): strumento per l'utilizzo (basilare) di Git
