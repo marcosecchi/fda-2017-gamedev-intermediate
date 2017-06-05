@@ -2,7 +2,7 @@
 
 ## Classroom
 * [Slack](https://fda-2017-intermediate.slack.com): pagina Slack dedicata al corso
-* [Repl.it Classroom](https://repl.it/teacher/classrooms/21203): classe virtuale del corso
+* [Repl.it Classroom](https://repl.it/data/classrooms/share/d7a02d23d2992aaacdaaae7a4fa76bae): classe virtuale del corso
 
 ## Unity3D
 * [Unity3D](https://unity3d.com/get-unity/download/archive): archivio delle versioni di Unity3D
