@@ -8,7 +8,6 @@
 * [Unity3D](https://unity3d.com/get-unity/download/archive): archivio delle versioni di Unity3D
 
 ## Git
-* [Git](https://git-scm.com/): pagina ufficiale di Git
 * [GitHub](https://www.github.com/): servizio di hosting (repository) per progetti
 * [GitHub Desktop](https://desktop.github.com/): strumento per l'utilizzo (basilare) di Git
 
