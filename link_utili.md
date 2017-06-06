@@ -2,6 +2,7 @@
 
 ## Classroom
 * [Slack](https://fda-2017-intermediate.slack.com): pagina Slack dedicata al corso
+* [Repl.it Classroom](https://repl.it/classroom/invite/FzUrWky): classe virtuale con esercizi in C#
 
 ## Unity3D
 * [Unity3D](https://unity3d.com/get-unity/download/archive): archivio delle versioni di Unity3D
