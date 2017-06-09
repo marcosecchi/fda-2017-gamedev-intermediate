@@ -32,7 +32,8 @@
 
 ## Progetti del Corso
 
-1. [Progetto 1](https://github.com/marcosecchi/fda-2017-gamedev-intermediate-proj01) (Link Esterno): introduzione all'utilizzo dei materiali ed agli oggetti in scena
+1. [Progetto 1 (su GitHub)](https://github.com/marcosecchi/fda-2017-gamedev-intermediate-proj01): introduzione all'utilizzo dei materiali ed agli oggetti in scena
+1. [Progetto 2 (su GitHub)](https://github.com/marcosecchi/fda-2017-gamedev-intermediate-proj02): space shooter
 
 ## Altre Risorse
 
