@@ -19,6 +19,10 @@
 
 # Link Vari
 
+## Imparare a Sviluppare
+* [HackerRank](https://www.hackerrank.com/dashboard): consigliato [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
+* [CodinGame](https://www.codingame.com)
+
 ## Videogame in Italia
 
 * [AESVI - Associazione Editori Sviluppatori Videogiochi Italiani](http://aesvi.it/)
