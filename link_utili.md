@@ -14,8 +14,11 @@
 * [Unity Scripting API](https://docs.unity3d.com/ScriptReference/): documentazione ufficiale delle API di Unity3D
 
 ## Git
+* [Sito Ufficiale Git](https://git-scm.com/)
 * [GitHub](https://www.github.com/): servizio di hosting (repository) per progetti
 * [GitHub Desktop](https://desktop.github.com/): strumento per l'utilizzo (basilare) di Git
+* [GitHub Guides](https://guides.github.com/)
+* [Student Developer Pack](https://education.github.com/pack)
 
 # Link Vari
 
