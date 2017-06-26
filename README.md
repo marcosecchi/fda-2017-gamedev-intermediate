@@ -34,6 +34,7 @@
 
 1. [Progetto 1 (su GitHub)](https://github.com/marcosecchi/fda-2017-gamedev-intermediate-proj01): introduzione all'utilizzo dei materiali ed agli oggetti in scena
 1. [Progetto 2 (su GitHub)](https://github.com/marcosecchi/fda-2017-gamedev-intermediate-proj02): space shooter
+1. [Progetto 3 (su GitHub)](https://github.com/marcosecchi/fda-2017-gamedev-intermediate-proj03): integrazione Unity/Ink
 
 ## Altre Risorse
 
