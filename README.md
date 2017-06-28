@@ -24,7 +24,7 @@
 1. [Lezione del 19 Giugno 2017](https://github.com/marcosecchi/fda-2017-gamedev-intermediate/blob/master/lezione-20170619.md)
 1. [Lezione del 26 Giugno 2017](https://github.com/marcosecchi/fda-2017-gamedev-intermediate/blob/master/lezione-20170626.md)
 1. [Lezione del 27 Giugno 2017](https://github.com/marcosecchi/fda-2017-gamedev-intermediate/blob/master/lezione-20170627.md)
-1. Lezione del 28 Giugno 2017 
+1. [Lezione del 28 Giugno 2017](https://github.com/marcosecchi/fda-2017-gamedev-intermediate/blob/master/lezione-20170628.md)
 1. Lezione del 29 Giugno 2017 
 1. Lezione del 3 Luglio 2017 
 1. Lezione del 4 Luglio 2017 
@@ -35,6 +35,7 @@
 1. [Progetto 1 (su GitHub)](https://github.com/marcosecchi/fda-2017-gamedev-intermediate-proj01): introduzione all'utilizzo dei materiali ed agli oggetti in scena
 1. [Progetto 2 (su GitHub)](https://github.com/marcosecchi/fda-2017-gamedev-intermediate-proj02): space shooter
 1. [Progetto 3 (su GitHub)](https://github.com/marcosecchi/fda-2017-gamedev-intermediate-proj03): integrazione Unity/Ink
+1. [Progetto 4 (su GitHub)](https://github.com/marcosecchi/fda-2017-gamedev-intermediate-proj04): 3D FPS/Third Person
 
 ## Altre Risorse
 
