@@ -26,9 +26,9 @@
 1. [Lezione del 27 Giugno 2017](https://github.com/marcosecchi/fda-2017-gamedev-intermediate/blob/master/lezione-20170627.md)
 1. [Lezione del 28 Giugno 2017](https://github.com/marcosecchi/fda-2017-gamedev-intermediate/blob/master/lezione-20170628.md)
 1. [Lezione del 29 Giugno 2017](https://github.com/marcosecchi/fda-2017-gamedev-intermediate/blob/master/lezione-20170629.md)
-1. Lezione del 3 Luglio 2017 
-1. Lezione del 4 Luglio 2017 
-1. Lezione del 5 Luglio 2017
+1. [Lezione del 3 Luglio 2017](https://github.com/marcosecchi/fda-2017-gamedev-intermediate/blob/master/lezione-20170703.md)
+1. [Lezione del 4 Luglio 2017](https://github.com/marcosecchi/fda-2017-gamedev-intermediate/blob/master/lezione-20170704.md)
+1. [Lezione del 5 Luglio 2017](https://github.com/marcosecchi/fda-2017-gamedev-intermediate/blob/master/lezione-20170705.md)
 
 ## Progetti del Corso
 
